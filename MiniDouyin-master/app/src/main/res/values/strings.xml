@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MiniDouyin</string>
+    <string name="detail_text">asaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+
+    <drawable name="clr_normal">#EBEDE5</drawable>
+    <drawable name="clr_pressed">#000000</drawable>
+    <drawable name="text_normal">#A1A1A1</drawable>
+    <drawable name="text_pressed">#000000</drawable>
+
+
+    <string name="button_play">Play</string>
+    <string name="loading_string">Dou Yin</string>
+    <string name="loading_ad_string">广告页面招租，价格面议</string>
+
+
+    <string name="morning">早上好</string>
+    <string name="noon">中午好</string>
+    <string name="afternoon">下午好</string>
+    <string name="evening">晚上好</string>
+</resources>

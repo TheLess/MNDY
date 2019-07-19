@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:70-108
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:109-155
+	android:versionCode
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:2:156-196
+supports-screens
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:3:135-160
+uses-permission#android.permission.INTERNET
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:4:3-65
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:4:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:5:3-77
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:5:20-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:6:20-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:7:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:8:3-79
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:8:20-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:9:3-69
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:9:20-66
+application
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:11:3-21:17
+	android:label
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:11:90-122
+	android:icon
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:11:58-89
+	android:theme
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:11:16-57
+activity#com.sunhao.unity_to_android2.UnityPlayerActivity
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:5-16:16
+	android:screenOrientation
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:48-86
+	android:label
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:15-47
+	android:launchMode
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:87-118
+	android:hardwareAccelerated
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:301-336
+	android:configChanges
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:119-300
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:12:337-400
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:14:7-82
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:14:59-79
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:14:18-58
+meta-data#android.notch_support
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:15:7-78
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:15:55-75
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:15:18-54
+meta-data#unity.build-id
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:17:5-101
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:17:46-98
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:17:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:18:5-69
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:18:49-66
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:18:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:19:5-75
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:19:51-72
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:19:16-50
+meta-data#notch.config
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:20:5-81
+	android:value
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:20:44-78
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:20:16-43
+uses-feature#0x00020000
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:22:3-52
+	android:glEsVersion
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:22:17-49
+uses-feature#android.hardware.vulkan
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:23:3-83
+	android:required
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:23:56-80
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:23:17-55
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:25:3-88
+	android:required
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:25:61-85
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:25:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:26:3-99
+	android:required
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:26:72-96
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:26:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:27:3-108
+	android:required
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:27:81-105
+	android:name
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml:27:17-80
+uses-sdk
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		ADDED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
+		INJECTED from C:\Temp\MNDY\MiniDouyin-master\unity_to_android2\src\main\AndroidManifest.xml
